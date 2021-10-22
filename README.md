@@ -1,3 +1,8 @@
+## 个人积累
+### Java
+#### Java多线程与并发
+
+### 设计模式
 ## 架构类
 * [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
 * [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer)
